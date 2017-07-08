@@ -8414,3 +8414,12 @@
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
+
+		/*************/
+		/* MY EDITS */
+		/*************/
+
+		.propic img {
+			width:65%;
+			max-width:50%;
+		}
